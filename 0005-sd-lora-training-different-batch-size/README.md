@@ -17,7 +17,7 @@ https://www.patreon.com/posts/stable-diffusion-81203891?utm_medium=clipboard_cop
 )
 
 # Patreon
-Please consider supporting me
+☕️ Please consider to support me in Patreon 🍻
 
 [https://www.patreon.com/lifeisboringsoprogramming](https://www.patreon.com/lifeisboringsoprogramming)
 

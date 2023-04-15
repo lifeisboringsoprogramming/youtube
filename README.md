@@ -1,14 +1,22 @@
 # Introduction
 Codes from YouTube channel ***@life-is-boring-so-programming***
 
-https://www.youtube.com/@life-is-boring-so-programming?sub_confirmation=1 
-
+# YouTube Channel
 Please subscribe to my YouTube channel, thank you very much. 
 
-# Support
+[https://bit.ly/3odzTKX](https://bit.ly/3odzTKX)
+
+# Patreon
 ☕️ Please consider to support me in Patreon 🍻
 
-https://www.patreon.com/lifeisboringsoprogramming
+[https://www.patreon.com/lifeisboringsoprogramming](https://www.patreon.com/lifeisboringsoprogramming)
+
+# Civitai
+[https://civitai.com/user/lifeisboringsoprogramming](https://civitai.com/user/lifeisboringsoprogramming)
+
+# Instagram
+
+[https://instagram.com/lifeisboringsoprogramming](https://instagram.com/lifeisboringsoprogramming)
 
 # Videos
 * 0005 - Stable Diffusion LoRA training experiment different batch size part 2: https://youtu.be/yogymGvKVG8
