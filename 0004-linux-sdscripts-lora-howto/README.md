@@ -7,9 +7,9 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://bit.ly/3odzTKX](https://bit.ly/3odzTKX)
 
 # Videos
-[![Stable diffusion LoRA training experiment different base model part 1](https://img.youtube.com/vi/hHQKik0xCDU/sddefault.jpg)](https://www.youtube.com/watch?v=hHQKik0xCDU)
+[![Stable Diffusion how to install sd_scripts for LoRA training on Linux](https://img.youtube.com/vi/Tp7WR9Qb9vk/sddefault.jpg)](https://www.youtube.com/watch?v=Tp7WR9Qb9vk)
 
-[https://www.youtube.com/watch?v=hHQKik0xCDU](https://www.youtube.com/watch?v=hHQKik0xCDU)
+[https://www.youtube.com/watch?v=Tp7WR9Qb9vk](https://www.youtube.com/watch?v=Tp7WR9Qb9vk)
 
 # Dataset
 [https://www.patreon.com/posts/stable-diffusion-81203891](

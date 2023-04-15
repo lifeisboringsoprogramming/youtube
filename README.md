@@ -10,6 +10,7 @@ Please subscribe to my YouTube channel, thank you very much.
 https://www.patreon.com/lifeisboringsoprogramming
 
 # Videos
+* 0005 - Stable Diffusion LoRA training experiment different batch size part 2: https://youtu.be/yogymGvKVG8
 * 0004 - Stable Diffusion how to install sd_scripts for LoRA training on Linux: https://youtu.be/Tp7WR9Qb9vk
 * 0003 - Stable diffusion LoRA training experiment different base model part 1: https://youtu.be/hHQKik0xCDU
 * 0002 - ChatGPT hello world challenge: https://youtu.be/Ce3VPdHeFxs

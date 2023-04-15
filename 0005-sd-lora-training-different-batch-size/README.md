@@ -7,9 +7,9 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://bit.ly/3odzTKX](https://bit.ly/3odzTKX)
 
 # Videos
-[![Stable diffusion LoRA training experiment different base model part 1](https://img.youtube.com/vi/hHQKik0xCDU/sddefault.jpg)](https://www.youtube.com/watch?v=hHQKik0xCDU)
+[![Stable Diffusion LoRA training experiment different batch size part 2](https://img.youtube.com/vi/yogymGvKVG8/sddefault.jpg)](https://www.youtube.com/watch?v=yogymGvKVG8)
 
-[https://www.youtube.com/watch?v=hHQKik0xCDU](https://www.youtube.com/watch?v=hHQKik0xCDU)
+[https://www.youtube.com/watch?v=yogymGvKVG8](https://www.youtube.com/watch?v=yogymGvKVG8)
 
 # Dataset
 [https://www.patreon.com/posts/stable-diffusion-81203891](
