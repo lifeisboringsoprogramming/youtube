@@ -7,6 +7,7 @@ Please subscribe to my YouTube channel, thank you very much.
 
 # Support
 ☕️ Please consider to support me in Patreon 🍻
+
 https://www.patreon.com/lifeisboringsoprogramming
 
 # Videos
