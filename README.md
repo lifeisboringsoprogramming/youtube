@@ -19,6 +19,7 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://instagram.com/lifeisboringsoprogramming](https://instagram.com/lifeisboringsoprogramming)
 
 # Videos
+* 0007 - Stable Diffusion merging LoRA models on Google colab: https://youtu.be/_g0vLr-ekzg
 * 0006 - Stable Diffusion merging LoRA models How To: https://youtu.be/X-ZCRLBZbP0
 * 0005 - Stable Diffusion LoRA training experiment different batch size part 2: https://youtu.be/yogymGvKVG8
 * 0004 - Stable Diffusion how to install sd_scripts for LoRA training on Linux: https://youtu.be/Tp7WR9Qb9vk
