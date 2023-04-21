@@ -12,7 +12,7 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://www.youtube.com/watch?v=_g0vLr-ekzg](https://www.youtube.com/watch?v=_g0vLr-ekzg)
 
 # Google Colab Notebook
-sd_scripts_lora_merging.ipynb [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lifeisboringsoprogramming/youtube/blob/main/0007-merging-lora-model-google-colab/sd_scripts_lora_merging.ipynb)
+sd_scripts_lora_merging.ipynb [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lifeisboringsoprogramming/youtube/blob/master/0007-merging-lora-model-google-colab/sd_scripts_lora_merging.ipynb)
 
 
 # Dataset
