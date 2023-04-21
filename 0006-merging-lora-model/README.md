@@ -23,7 +23,3 @@ https://www.patreon.com/posts/stable-diffusion-81203891?utm_medium=clipboard_cop
 
 # Civitai
 [https://civitai.com/user/lifeisboringsoprogramming](https://civitai.com/user/lifeisboringsoprogramming)
-
-# Instagram
-
-[https://instagram.com/lifeisboringsoprogramming](https://instagram.com/lifeisboringsoprogramming)

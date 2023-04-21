@@ -15,7 +15,3 @@ Please subscribe to my YouTube channel, thank you very much.
 ☕️ Please consider to support me in Patreon 🍻
 
 [https://www.patreon.com/lifeisboringsoprogramming](https://www.patreon.com/lifeisboringsoprogramming)
-
-# Instagram
-
-[https://instagram.com/lifeisboringsoprogramming](https://instagram.com/lifeisboringsoprogramming)
