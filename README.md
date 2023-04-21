@@ -14,9 +14,6 @@ Please subscribe to my YouTube channel, thank you very much.
 # Civitai
 [https://civitai.com/user/lifeisboringsoprogramming](https://civitai.com/user/lifeisboringsoprogramming)
 
-# Instagram
-
-[https://instagram.com/lifeisboringsoprogramming](https://instagram.com/lifeisboringsoprogramming)
 
 # Videos
 * 0007 - Stable Diffusion merging LoRA models on Google colab: https://youtu.be/_g0vLr-ekzg
