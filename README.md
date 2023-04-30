@@ -16,6 +16,7 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0008 - Stable Diffusion LoRA training experiment different network dimension part 3: https://youtu.be/57Fk7BX5Q8A
 * 0007 - Stable Diffusion merging LoRA models on Google colab: https://youtu.be/_g0vLr-ekzg
 * 0006 - Stable Diffusion merging LoRA models How To: https://youtu.be/X-ZCRLBZbP0
 * 0005 - Stable Diffusion LoRA training experiment different batch size part 2: https://youtu.be/yogymGvKVG8
