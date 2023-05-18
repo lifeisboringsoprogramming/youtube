@@ -16,6 +16,7 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0011 - Stable Diffusion How to create photo-realistic AI girls: https://youtu.be/frIHKooqFyc
 * 0010 - Stable Diffusion LoRA training experiment different num repeats part 4: https://youtu.be/usd9wv2hF08
 * 0009 - Different network dim - Stable Diffusion merging LoRA models with How To: https://youtu.be/A5fbuzV3qNI
 * 0008 - Stable Diffusion LoRA training experiment different network dimension part 3: https://youtu.be/57Fk7BX5Q8A
