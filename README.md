@@ -16,6 +16,7 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0013 - Stable Diffusion LoRA training experiment different number of dataset images part 5: https://youtu.be/Z8Ozg4hHuyA
 * 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://youtu.be/Ko-076NUCE8
 * 0011 - Stable Diffusion How to create photo-realistic AI girls: https://youtu.be/frIHKooqFyc
 * 0010 - Stable Diffusion LoRA training experiment different num repeats part 4: https://youtu.be/usd9wv2hF08
