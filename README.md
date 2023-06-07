@@ -16,6 +16,7 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0014 - How to extract LoRA model and reverse LoRA effect stable diffusion tutorial: https://youtu.be/mWTKJQxjKAs
 * 0013 - Stable Diffusion LoRA training experiment different number of dataset images part 5: https://youtu.be/Z8Ozg4hHuyA
 * 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://youtu.be/Ko-076NUCE8
 * 0011 - Stable Diffusion How to create photo-realistic AI girls: https://youtu.be/frIHKooqFyc
