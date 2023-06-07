@@ -11,6 +11,10 @@ Please subscribe to my YouTube channel, thank you very much.
 
 [https://www.youtube.com/watch?v=mWTKJQxjKAs](https://www.youtube.com/watch?v=mWTKJQxjKAs)
 
+
+# Safe for work LoRA model 
+https://bit.ly/3WSZN3D
+
 # Dataset
 [https://www.patreon.com/posts/stable-diffusion-81203891](
 https://www.patreon.com/posts/stable-diffusion-81203891?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
