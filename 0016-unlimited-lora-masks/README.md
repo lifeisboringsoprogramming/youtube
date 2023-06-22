@@ -11,6 +11,9 @@ Please subscribe to my YouTube channel, thank you very much.
 
 [https://www.youtube.com/watch?v=q-KGRRFARk4](https://www.youtube.com/watch?v=q-KGRRFARk4)
 
+# 🌐 sd-webui-lora-masks ✨
+https://github.com/lifeisboringsoprogramming/sd-webui-lora-masks
+
 # 📷 Pnginfo and masks and openpose model used in the video 🔍
 https://bit.ly/3piK7dM
 
