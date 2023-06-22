@@ -7,12 +7,12 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://bit.ly/3odzTKX](https://bit.ly/3odzTKX)
 
 # Videos
-[![Stable diffusion tutorial - How to use Two or Three LoRA models in one image without in-paint](https://img.youtube.com/vi/jh-TrplWVA0/sddefault.jpg)](https://www.youtube.com/watch?v=jh-TrplWVA0)
+[![Stable diffusion tutorial - How to use Unlimited LoRA models in one image without in-paint](https://img.youtube.com/vi/q-KGRRFARk4/sddefault.jpg)](https://www.youtube.com/watch?v=q-KGRRFARk4)
 
-[https://www.youtube.com/watch?v=jh-TrplWVA0](https://www.youtube.com/watch?v=jh-TrplWVA0)
+[https://www.youtube.com/watch?v=q-KGRRFARk4](https://www.youtube.com/watch?v=q-KGRRFARk4)
 
-📷 Pnginfo used in the video 🔍
-https://bit.ly/3P6Vno7
+# 📷 Pnginfo and masks and openpose model used in the video 🔍
+https://bit.ly/3piK7dM
 
 # Dataset
 [https://www.patreon.com/posts/stable-diffusion-81203891](
