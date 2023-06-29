@@ -16,6 +16,7 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0017 - Stable Diffusion LoRA training experiment different dataset image resolutions part 6: https://youtu.be/fi9stdlQVfo
 * 0016 - Stable diffusion tutorial - How to use Unlimited LoRA models in one image without in-paint: https://youtu.be/q-KGRRFARk4
 * 0015 - Stable diffusion tutorial - How to use Two or Three LoRA models in one image without in-paint: https://youtu.be/jh-TrplWVA0
 * 0014 - How to extract LoRA model and reverse LoRA effect stable diffusion tutorial: https://youtu.be/mWTKJQxjKAs
