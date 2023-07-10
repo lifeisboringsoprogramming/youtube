@@ -11,6 +11,9 @@ Please subscribe to my YouTube channel, thank you very much.
 
 [https://www.youtube.com/watch?v=usd9wv2hF08](https://www.youtube.com/watch?v=usd9wv2hF08)
 
+# More comparsions
+<img src="images/xyz_grid-0002-424286032.jpg" />
+
 # Dataset
 [https://www.patreon.com/posts/stable-diffusion-81203891](
 https://www.patreon.com/posts/stable-diffusion-81203891?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
