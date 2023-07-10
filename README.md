@@ -16,6 +16,8 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0019 - Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension: https://youtu.be/iF4w7gFDaYM
+* 0018 - Stable Diffusion how to install kohya-ss GUI for LoRA training on Linux: https://youtu.be/VUp4QH2lriw
 * 0017 - Stable Diffusion LoRA training experiment different dataset image resolutions part 6: https://youtu.be/fi9stdlQVfo
 * 0016 - Stable diffusion tutorial - How to use Unlimited LoRA models in one image without in-paint: https://youtu.be/q-KGRRFARk4
 * 0015 - Stable diffusion tutorial - How to use Two or Three LoRA models in one image without in-paint: https://youtu.be/jh-TrplWVA0
