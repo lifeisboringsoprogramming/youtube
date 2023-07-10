@@ -17,21 +17,60 @@ Please subscribe to my YouTube channel, thank you very much.
 
 # Videos
 * 0019 - Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension: https://youtu.be/iF4w7gFDaYM
+
+* [![Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension](https://img.youtube.com/vi/iF4w7gFDaYM/sddefault.jpg)](https://www.youtube.com/watch?v=iF4w7gFDaYM)
+
 * 0018 - Stable Diffusion how to install kohya-ss GUI for LoRA training on Linux: https://youtu.be/VUp4QH2lriw
+* [![Stable Diffusion how to install kohya-ss GUI for LoRA training on Linux](https://img.youtube.com/vi/VUp4QH2lriw/sddefault.jpg)](https://www.youtube.com/watch?v=VUp4QH2lriw)
+
 * 0017 - Stable Diffusion LoRA training experiment different dataset image resolutions part 6: https://youtu.be/fi9stdlQVfo
+* [![Stable Diffusion LoRA training experiment different dataset image resolutions part 6](https://img.youtube.com/vi/fi9stdlQVfo/sddefault.jpg)](https://www.youtube.com/watch?v=fi9stdlQVfo)
+
+
 * 0016 - Stable diffusion tutorial - How to use Unlimited LoRA models in one image without in-paint: https://youtu.be/q-KGRRFARk4
+* [![Stable diffusion tutorial - How to use Unlimited LoRA models in one image without in-paint](https://img.youtube.com/vi/q-KGRRFARk4/sddefault.jpg)](https://www.youtube.com/watch?v=q-KGRRFARk4)
+
 * 0015 - Stable diffusion tutorial - How to use Two or Three LoRA models in one image without in-paint: https://youtu.be/jh-TrplWVA0
+* [![Stable diffusion tutorial - How to use Two or Three LoRA models in one image without in-paint](https://img.youtube.com/vi/jh-TrplWVA0/sddefault.jpg)](https://www.youtube.com/watch?v=jh-TrplWVA0)
+
 * 0014 - How to extract LoRA model and reverse LoRA effect stable diffusion tutorial: https://youtu.be/mWTKJQxjKAs
+* [![How to extract LoRA model and reverse LoRA effect stable diffusion tutorial](https://img.youtube.com/vi/mWTKJQxjKAs/sddefault.jpg)](https://www.youtube.com/watch?v=mWTKJQxjKAs)
+
 * 0013 - Stable Diffusion LoRA training experiment different number of dataset images part 5: https://youtu.be/Z8Ozg4hHuyA
+* [![Stable Diffusion LoRA training experiment different number of dataset images part 5](https://img.youtube.com/vi/Z8Ozg4hHuyA/sddefault.jpg)](https://www.youtube.com/watch?v=Z8Ozg4hHuyA)
+
 * 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://youtu.be/Ko-076NUCE8
+* [![How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel](https://img.youtube.com/vi/Ko-076NUCE8/sddefault.jpg)](https://www.youtube.com/watch?v=Ko-076NUCE8)
+
 * 0011 - Stable Diffusion How to create photo-realistic AI girls: https://youtu.be/frIHKooqFyc
+* [![Stable Diffusion LoRA training experiment different num repeats part 4](https://img.youtube.com/vi/frIHKooqFyc/sddefault.jpg)](https://www.youtube.com/watch?v=frIHKooqFyc)
+
 * 0010 - Stable Diffusion LoRA training experiment different num repeats part 4: https://youtu.be/usd9wv2hF08
+* [![Stable Diffusion LoRA training experiment different num repeats part 4](https://img.youtube.com/vi/usd9wv2hF08/sddefault.jpg)](https://www.youtube.com/watch?v=usd9wv2hF08)
+
 * 0009 - Different network dim - Stable Diffusion merging LoRA models with How To: https://youtu.be/A5fbuzV3qNI
+* [![Different network dim - Stable Diffusion merging LoRA models with How To](https://img.youtube.com/vi/A5fbuzV3qNI/sddefault.jpg)](https://www.youtube.com/watch?v=A5fbuzV3qNI)
+
 * 0008 - Stable Diffusion LoRA training experiment different network dimension part 3: https://youtu.be/57Fk7BX5Q8A
+* [![Stable Diffusion LoRA training experiment different network dimension part 3](https://img.youtube.com/vi/57Fk7BX5Q8A/sddefault.jpg)](https://www.youtube.com/watch?v=57Fk7BX5Q8A)
+
 * 0007 - Stable Diffusion merging LoRA models on Google colab: https://youtu.be/_g0vLr-ekzg
+* [![Stable Diffusion merging LoRA models on Google colab](https://img.youtube.com/vi/_g0vLr-ekzg/sddefault.jpg)](https://www.youtube.com/watch?v=_g0vLr-ekzg)
+
 * 0006 - Stable Diffusion merging LoRA models How To: https://youtu.be/X-ZCRLBZbP0
+* [![Stable Diffusion merging LoRA models How To](https://img.youtube.com/vi/X-ZCRLBZbP0/sddefault.jpg)](https://www.youtube.com/watch?v=X-ZCRLBZbP0)
+
 * 0005 - Stable Diffusion LoRA training experiment different batch size part 2: https://youtu.be/yogymGvKVG8
+* [![Stable Diffusion LoRA training experiment different batch size part 2](https://img.youtube.com/vi/yogymGvKVG8/sddefault.jpg)](https://www.youtube.com/watch?v=yogymGvKVG8)
+
 * 0004 - Stable Diffusion how to install sd_scripts for LoRA training on Linux: https://youtu.be/Tp7WR9Qb9vk
+* [![Stable Diffusion how to install sd_scripts for LoRA training on Linux](https://img.youtube.com/vi/Tp7WR9Qb9vk/sddefault.jpg)](https://www.youtube.com/watch?v=Tp7WR9Qb9vk)
+
 * 0003 - Stable diffusion LoRA training experiment different base model part 1: https://youtu.be/hHQKik0xCDU
+* [![Stable diffusion LoRA training experiment different base model part 1](https://img.youtube.com/vi/hHQKik0xCDU/sddefault.jpg)](https://www.youtube.com/watch?v=hHQKik0xCDU)
+
 * 0002 - ChatGPT hello world challenge: https://youtu.be/Ce3VPdHeFxs
+* [![ChatGPT hello world challenge](https://img.youtube.com/vi/Ce3VPdHeFxs/sddefault.jpg)](https://www.youtube.com/watch?v=Ce3VPdHeFxs)
+
 * 0001 - How to write a hello world program using TTS AI model: https://youtu.be/aQgob9wLZdE
+* [![How to write a hello world program using TTS AI model](https://img.youtube.com/vi/aQgob9wLZdE/sddefault.jpg)](https://www.youtube.com/watch?v=aQgob9wLZdE)
