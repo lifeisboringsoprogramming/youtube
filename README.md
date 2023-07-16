@@ -16,8 +16,10 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
-* 0019 - Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension: https://youtu.be/iF4w7gFDaYM
+* 0020 - Stable Diffusion merging LoRA models to checkpoint How To: https://youtu.be/9Kz8RfrzxC8
+* [![Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension](https://img.youtube.com/vi/9Kz8RfrzxC8/sddefault.jpg)](https://www.youtube.com/watch?v=9Kz8RfrzxC8)
 
+* 0019 - Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension: https://youtu.be/iF4w7gFDaYM
 * [![Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension](https://img.youtube.com/vi/iF4w7gFDaYM/sddefault.jpg)](https://www.youtube.com/watch?v=iF4w7gFDaYM)
 
 * 0018 - Stable Diffusion how to install kohya-ss GUI for LoRA training on Linux: https://youtu.be/VUp4QH2lriw
