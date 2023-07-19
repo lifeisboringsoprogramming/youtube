@@ -16,6 +16,9 @@ Please subscribe to my YouTube channel, thank you very much.
 
 
 # Videos
+* 0021 - Automatic1111 Official SDXL - Stable diffusion Web UI 1.5RC: https://youtu.be/RJpiOw_uxlk
+* [![Automatic1111 Official SDXL - Stable diffusion Web UI 1.5RC](https://img.youtube.com/vi/RJpiOw_uxlk/sddefault.jpg)](https://www.youtube.com/watch?v=RJpiOw_uxlk)
+
 * 0020 - Stable Diffusion merging LoRA models to checkpoint How To: https://youtu.be/9Kz8RfrzxC8
 * [![Introducing Stable Diffusion XL 0.9 txt2img AUTOMATIC1111 webui extension](https://img.youtube.com/vi/9Kz8RfrzxC8/sddefault.jpg)](https://www.youtube.com/watch?v=9Kz8RfrzxC8)
 
