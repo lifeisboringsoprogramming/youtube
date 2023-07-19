@@ -11,6 +11,9 @@ Please subscribe to my YouTube channel, thank you very much.
 
 [https://www.youtube.com/watch?v=RJpiOw_uxlk](https://www.youtube.com/watch?v=RJpiOw_uxlk)
 
+# 👩‍🦰 SDXL LoRA model 👇🏻
+https://bit.ly/44z5RBE
+
 # 🔀 Checkout 1.5.0-RC branch ✨
 ```
 git pull
