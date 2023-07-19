@@ -16,6 +16,7 @@ Please subscribe to my YouTube channel, thank you very much.
 git pull
 git fetch --all --tags
 git checkout tags/v1.5.0-RC
+git pull
 ```
 
 # Rollback ⏪
