@@ -44,7 +44,7 @@ Please subscribe to my YouTube channel, thank you very much.
 * 0013 - Stable Diffusion LoRA training experiment different number of dataset images part 5: https://youtu.be/Z8Ozg4hHuyA
 * [![Stable Diffusion LoRA training experiment different number of dataset images part 5](https://img.youtube.com/vi/Z8Ozg4hHuyA/sddefault.jpg)](https://www.youtube.com/watch?v=Z8Ozg4hHuyA)
 
-* 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://youtu.be/Ko-076NUCE8
+* 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://www.patreon.com/posts/how-i-made-900-1-86265261
 * [![How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel](https://raw.githubusercontent.com/lifeisboringsoprogramming/youtube/master/0012-how-i-made-900-you-tube-ai-lookbook-videos-in-1-day-for-a-faceless-you-tube-channel/images/thumbnail.04.jpg)](https://www.patreon.com/posts/how-i-made-900-1-86265261)
 
 * 0011 - Stable Diffusion How to create photo-realistic AI girls: https://youtu.be/frIHKooqFyc
