@@ -11,6 +11,10 @@ Please subscribe to my YouTube channel, thank you very much.
 
 [https://www.youtube.com/watch?v=iNwB98P3V0k](https://www.youtube.com/watch?v=iNwB98P3V0k)
 
+
+# 📚 Commands to install sd-scripts 📝
+https://bit.ly/44AcuUb
+
 # 📚 Training config files for Stable Diffusion SDXL Lora Training Tutorial 🚀📝
 https://bit.ly/3OspjdH
 
