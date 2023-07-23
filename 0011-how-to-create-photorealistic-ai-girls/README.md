@@ -7,10 +7,9 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://bit.ly/3odzTKX](https://bit.ly/3odzTKX)
 
 # Videos
-[![Stable Diffusion LoRA training experiment different num repeats part 4](https://img.youtube.com/vi/frIHKooqFyc/sddefault.jpg)](https://www.youtube.com/watch?v=frIHKooqFyc)
+[![Stable Diffusion How to create photo-realistic AI girls](https://raw.githubusercontent.com/lifeisboringsoprogramming/youtube/master/0011-how-to-create-photorealistic-ai-girls/images/thumbnail.01.jpg)](https://www.patreon.com/posts/stable-diffusion-86265185)
 
-[https://www.youtube.com/watch?v=frIHKooqFyc](https://www.youtube.com/watch?v=frIHKooqFyc)
-
+https://www.patreon.com/posts/stable-diffusion-86265185
 
 # ☕️ pnginfo for Realistic Vision 🍻
 https://bit.ly/3W8EoDa

@@ -7,15 +7,18 @@ Please subscribe to my YouTube channel, thank you very much.
 [https://bit.ly/3odzTKX](https://bit.ly/3odzTKX)
 
 # Videos
-* [![How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel](https://raw.githubusercontent.com/lifeisboringsoprogramming/youtube/master/0012-how-i-made-900-you-tube-ai-lookbook-videos-in-1-day-for-a-faceless-you-tube-channel/images/thumbnail.04.jpg)](https://www.patreon.com/posts/how-i-made-900-1-86265261)
+[![Stable Diffusion SDXL LoRA Training Tutorial](https://img.youtube.com/vi/iNwB98P3V0k/sddefault.jpg)](https://www.youtube.com/watch?v=iNwB98P3V0k)
 
-https://www.patreon.com/posts/how-i-made-900-1-86265261
+[https://www.youtube.com/watch?v=iNwB98P3V0k](https://www.youtube.com/watch?v=iNwB98P3V0k)
 
-# ☕️ Patreon bonus features 🍻
-https://bit.ly/432RDIk
+# 📚 Training config files for Stable Diffusion SDXL Lora Training Tutorial 🚀📝
+https://bit.ly/3OspjdH
 
-# 🎁 sd-webui-lookbook 🎉
-https://github.com/lifeisboringsoprogramming/sd-webui-lookbook
+# 🏋️‍♀️ System RAM 💾, Graphic card VRAM 🎮, time taken ⏱️ for different training 🏋️‍♀️
+https://bit.ly/3rLcF0b
+
+# 👩‍🦰 SDXL LoRA model 👇🏻
+https://bit.ly/44z5RBE
 
 # Dataset
 [https://www.patreon.com/posts/stable-diffusion-81203891](
