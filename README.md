@@ -20,8 +20,11 @@ Please subscribe to my YouTube channel, thank you very much.
 * 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://www.patreon.com/posts/how-i-made-900-1-86265261
 * [![How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel](https://raw.githubusercontent.com/lifeisboringsoprogramming/youtube/master/0012-how-i-made-900-you-tube-ai-lookbook-videos-in-1-day-for-a-faceless-you-tube-channel/images/thumbnail.04.jpg)](https://www.patreon.com/posts/how-i-made-900-1-86265261)
 
+* 0023 - Stable Diffusion LoRA training experiment different trigger words part 7: https://youtu.be/kimxha0wTbY
+* [![Stable Diffusion LoRA training experiment different trigger words part 7](https://img.youtube.com/vi/kimxha0wTbY/sddefault.jpg)](https://www.youtube.com/watch?v=kimxha0wTbY)
+
 * 0022 - Stable Diffusion SDXL LoRA Training Tutorial: https://youtu.be/iNwB98P3V0k
-* [![Automatic1111 Official SDXL - Stable diffusion Web UI 1.5RC](https://img.youtube.com/vi/iNwB98P3V0k/sddefault.jpg)](https://www.youtube.com/watch?v=iNwB98P3V0k)
+* [![Stable Diffusion SDXL LoRA Training Tutorial](https://img.youtube.com/vi/iNwB98P3V0k/sddefault.jpg)](https://www.youtube.com/watch?v=iNwB98P3V0k)
 
 * 0021 - Automatic1111 Official SDXL - Stable diffusion Web UI 1.5RC: https://youtu.be/RJpiOw_uxlk
 * [![Automatic1111 Official SDXL - Stable diffusion Web UI 1.5RC](https://img.youtube.com/vi/RJpiOw_uxlk/sddefault.jpg)](https://www.youtube.com/watch?v=RJpiOw_uxlk)
