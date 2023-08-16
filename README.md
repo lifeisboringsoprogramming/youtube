@@ -20,6 +20,12 @@ Please subscribe to my YouTube channel, thank you very much.
 * 0012 - How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel: https://www.patreon.com/posts/how-i-made-900-1-86265261
 * [![How I Made 900 YouTube AI Lookbook Videos in 1 DAY for a Faceless YouTube Channel](https://raw.githubusercontent.com/lifeisboringsoprogramming/youtube/master/0012-how-i-made-900-you-tube-ai-lookbook-videos-in-1-day-for-a-faceless-you-tube-channel/images/thumbnail.04.jpg)](https://www.patreon.com/posts/how-i-made-900-1-86265261)
 
+* 0025 - Learning Stable Diffusion - step into with codes - Stability AI generative models: https://youtu.be/qaeTmS5QwGE
+* [![Learning Stable Diffusion - step into with codes - Stability AI generative models](https://img.youtube.com/vi/qaeTmS5QwGE/sddefault.jpg)](https://www.youtube.com/watch?v=qaeTmS5QwGE)
+
+* 0024 - Meta Audiocraft text 2 music with Stable Diffusion Prompts: https://youtu.be/hijGoM9COXY
+* [![Meta Audiocraft text 2 music with Stable Diffusion Prompts](https://img.youtube.com/vi/hijGoM9COXY/sddefault.jpg)](https://www.youtube.com/watch?v=hijGoM9COXY)
+
 * 0023 - Stable Diffusion LoRA training experiment different trigger words part 7: https://youtu.be/kimxha0wTbY
 * [![Stable Diffusion LoRA training experiment different trigger words part 7](https://img.youtube.com/vi/kimxha0wTbY/sddefault.jpg)](https://www.youtube.com/watch?v=kimxha0wTbY)
 
